@@ -1,4 +1,4 @@
-# DHBW Wissenschaftliche Arbeiten
+# Wissenschaftliche Arbeiten
 Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert lege und gebe Tipps, die bei der Erstellung einer wissenschaftlichen Ausarbeitung wertvoll sein können. Feedback ist jederzeit willkommen.
 
 ### Grundsätzliches
