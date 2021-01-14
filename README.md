@@ -2,7 +2,6 @@
 Bei der Betreuung wissenschaftlicher Arbeiten kommen regelmäßig wiederkehrend ähnliche Fragestellungen auf.  
 Aus diesem Grund fasse ich hier zusammen, worauf ich als Betreuer besonders viel Wert lege:  
 
-## Wissenschaftliche Arbeiten
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
 2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind - aka "hidden assumptions" - sind aufzudecken und in eigenen Formulierungen zu vermeiden.  
 3. Ich lege viel Wert auf klare & sachgerechte Begriffsabgrenzungen.  
