@@ -50,6 +50,7 @@ Zur Erarbeitung möglicher Forschungsfragen stehe ich auch stets gerne zum gemei
 Nachdem Du Dir einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft hast, und eine Liste zu möglichen Forschungsfragen angefertigt hast, empfehle ich Dir Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Dir dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
 
 **Haben Sie weitere Tipps?**  
+Versetzt Euch ab und zu in die Lage eines möglichen Lesers Eurer Bachelorarbeit und fragt Euch ob Ihr verantwortungsvoll mit der Lebenszeit Eures Lesers umgeht --> Ist Eure Arbeit ein wertvolles klar strukturiertes Artefakt?  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
 
 
