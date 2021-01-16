@@ -52,7 +52,7 @@ Abstract + Fazit der möglichen Quelle checken, dann überlegen ob der Inhalt re
 **Meine BA baut teilweise auf Erkenntnissen aus meiner PA auf. Soll ich an entsprechenden Stellen direkt darauf verweisen?**  
 Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öffentlich zugänglich ist. Stattdessen scheint es sinnvoll die PA in den Referenzen mit aufzunehmen und im Text beispielsweise folgendermaßen zu referenzieren: "In [PA1] wurden die Ergebnisse aus [Q1, Q2, Q3] folgendermaßen zusammengefasst...". 
 
-**Wie stehen Sie zu kursiv fomatierten Begriffen?"**  
+**Wie stehen Sie zu kursiv fomatierten Begriffen?**  
 Ich empfehle Akzente eher durch eine klare Sprache und eine klare Gesamtstruktur zu setzen.   
 
 **Haben Sie weitere Tipps?**  
