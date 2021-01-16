@@ -49,6 +49,12 @@ Zur Erarbeitung möglicher Forschungsfragen stehe ich auch stets gerne zum gemei
 **Welche Methodik passt am besten zu meinem Thema und mir?**  
 Nachdem Du Dir einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft hast, und eine Liste zu möglichen Forschungsfragen angefertigt hast, empfehle ich Dir Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Dir dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
 
+**Wie stehen Sie zu kursiv fomatierten Begriffen?"**  
+Sofern Sie auf kursiv formatierte Begriffe verzichten können, empfehle ich Ihnen dies zugunsten der Optimierung des Leseflusses zu tun. Es ist aus meiner Sicht empfehlenswert Akzente eher durch eine klare Sprache und eine klare Strukturierung zu setzen.  
+
+**Wie entscheide ich ob ich ein Artefakt in den Anhang oder direkt in den Fließtext packe?**  
+Sofern Sie den Inhalt des Artefaktes im Fließtext detailliert beschreiben und der Inhalt dieses Artefaktes daher scheinbar klar im Fokus steht, macht es m.E. grundsätzlich Sinn das Artefakt an sich bereits dem Fließtext zuzuordnen. Den Interpretationsspielraum, der sich bei diesen Entscheidungen oft ergibt können Sie gerne auch weitgehend dazu nutzen sicherzustellen, dass der empfohlene Umfang Ihrer wissenschaftlichen Arbeit in einem idealen Maße eingehalten wird.  
+
 **Haben Sie weitere Tipps?**  
 Versetzt Euch ab und zu in die Lage eines möglichen Lesers Eurer Bachelorarbeit und fragt Euch ob Ihr verantwortungsvoll mit der Lebenszeit Eures Lesers umgeht --> Ist Eure Arbeit ein wertvolles klar strukturiertes Artefakt?  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
