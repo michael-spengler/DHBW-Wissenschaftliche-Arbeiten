@@ -1,7 +1,7 @@
 # Wissenschaftliche Arbeiten
 
 ## Allgemein
-[Dieses Dokument](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/hinweise-wissenschaftliche-arbeiten.md) enthält allgemeine Hinweise für  wissenschaftliche Arbeiten.
+Allgemeine Hinweise für wissenschaftliche Arbeiten finden Sie [hier](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/hinweise-wissenschaftliche-arbeiten.md).
 
 ## Individuell  
 Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert lege und gebe Tipps, die bei der Erstellung einer wissenschaftlichen Ausarbeitung wertvoll sein können. Feedback ist jederzeit willkommen.
