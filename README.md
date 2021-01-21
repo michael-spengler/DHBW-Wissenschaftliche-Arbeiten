@@ -63,6 +63,12 @@ Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öff
 **Wie stehen Sie zu kursiv fomatierten Begriffen?**  
 Ich empfehle Akzente eher durch eine klare Sprache und eine klare Gesamtstruktur zu setzen.   
 
+**Darf ich englische Begriffe nutzen?**  
+Da in der "Web" Entwicklungszene viele Begriffe "eingedeutscht" sind, finde ich das grundätzlich in Ordnung. Vielleicht können Sie den deutschen Begriff einmalig nennen und den englischen Begriff einmalig in Klammer schreiben - z.B. "Beim überwachten Lernen (supervised learning)...". Ab diesem Punkt den englischen Begriff zu nutzen finde ich in Ordnung, da Sie die Bedeutung zunächst zugeordnet haben.  
+
+**Brauchen Sie persönlich eine gebundene Ausgabe meiner Arbeit?**  
+Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwischenstände - per Telegram zuzusenden. Eine digitale Ausgabe Ihrer Arbeit ist dementsprechend aus meiner Perspektive als Betreuer ausreichend, um Ihre Arbeit adäquat zu bewerten.  
+
 **Haben Sie weitere Tipps?**  
 1. Versetzen Sie sich ab und zu in die Lage eines möglichen Lesers Ihrer wissenschaftlichen Arbeit und fragen Sie sich inwiefern dieser mögliche Leser seine Lebenszeit durch das Lesen Ihrer Arbeit optimal nutzt. --> Ist Ihre Arbeit ein wertvolles klar strukturiertes Artefakt?    
 2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
