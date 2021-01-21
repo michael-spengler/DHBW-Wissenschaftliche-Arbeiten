@@ -72,6 +72,6 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 **Haben Sie weitere Tipps?**  
 1. Versetzen Sie sich ab und zu in die Lage eines möglichen Lesers Ihrer wissenschaftlichen Arbeit und fragen Sie sich inwiefern dieser mögliche Leser seine Lebenszeit durch das Lesen Ihrer Arbeit optimal nutzt. --> Ist Ihre Arbeit ein wertvolles klar strukturiertes Artefakt?    
 2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.    
-3. Definieren Sie Meilensteine, die sie nach Möglichkeit einhalten. 
+3. Definieren Sie Meilensteine, die Sie nach Möglichkeit einhalten. Beispielsweise "Forschungsfrage(n) soll klar sein", "Einleitung soll komplett sein", .... Es ist natürlich in Ordnung iterativ auch nochmal zu vorhergehenden Punkten zurückzukehren und diese zu optimieren. Gleichzeitig helfen Ihnen diese Meilensteine typischerweise eine strukturierte Herangehensweise anzuwenden, was wiederum mit einer hohen Wahrscheinlichkeit der Qualität Ihrer Arbeit zuträglich ist.
 
 
