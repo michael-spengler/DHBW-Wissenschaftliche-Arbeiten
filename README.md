@@ -82,6 +82,7 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 ## Das Wichtigste zum Schluss
 Fragen Sie sich häufig die folgende wichtige Frage:  
 **"Was kann ich zu diesem Thema fragen?"**   
+
 Sie können die Qualität der Wissenschaft im Allgemeinen vielleicht am besten dadurch optimieren, indem Sie sich selbst und andere regelmäßig inspirieren wertvolle Fragen zu stellen. Das "Bottleneck" in der Wissenschaft scheint weniger die Generierung einer Menge von Information zu sein und eher das Stellen der richtigen Fragen. Schenken Sie der Definition Ihrer Forschungsfrage oder Ihren Forschungsfragen daher Ihre Aufmerksamkeit. Jedem Anfang wohnt ein Zauber inne.
 
 
