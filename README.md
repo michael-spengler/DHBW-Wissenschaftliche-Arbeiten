@@ -74,4 +74,11 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.    
 3. Definieren Sie Meilensteine, die Sie nach Möglichkeit einhalten. Beispielsweise "Forschungsfrage(n) soll klar sein", "Einleitung soll komplett sein", .... Es ist natürlich in Ordnung iterativ auch nochmal zu vorhergehenden Punkten zurückzukehren und diese zu optimieren. Gleichzeitig helfen Ihnen diese Meilensteine typischerweise eine strukturierte Herangehensweise anzuwenden, was wiederum mit einer hohen Wahrscheinlichkeit der Qualität Ihrer Arbeit zuträglich ist.
 
+# Mündliche Prüfungen
+1. Stellen Sie sicher, dass Ihre Präsentation klar und nachvollziehbar ist
+2. Erzählen Sie nach der Beantwortung einer Frage gerne über zusätzliche Aspekte aus diesem Themengebiet --> Zeigen Sie was Sie wissen
+3. Falls Sie etwas nicht wissen trauen Sie sich zu sagen, dass Sie sich nicht 100 prozentig sicher sind und dass Sie gerne probieren das herzuleiten. Ein guter Prüfer lässt Sie diese Herleitung dann durchführen.
 
+# Während den Vorlesungen
+Fragen Sie sich während als Vorbereitung auf die einzelnen Vorlesungen und ggf. auch während der Vorlesung die folgende wichtige Frage:  
+**"Was kann ich zu diesem Thema fragen?"** 
