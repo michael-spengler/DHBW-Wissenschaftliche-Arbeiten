@@ -79,6 +79,9 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 2. Erzählen Sie nach der Beantwortung einer Frage gerne über zusätzliche Aspekte aus diesem Themengebiet --> Zeigen Sie was Sie wissen
 3. Falls Sie etwas nicht wissen trauen Sie sich zu sagen, dass Sie sich nicht 100 prozentig sicher sind und dass Sie gerne probieren eine wertvolle Antwort herzuleiten - ein guter Prüfer lässt Sie diese Herleitung dann im Regelfall durchführen
 
-## Vorbereitung während den Vorlesungen
-Fragen Sie sich als Vorbereitung auf die einzelnen Vorlesungen - und ggf. auch während den Vorlesungen - die folgende wichtige Frage:  
-**"Was kann ich zu diesem Thema fragen?"** und fragen Sie Ihren Dozenten dann auch.
+## Das Wichtigste zum Schluss
+Fragen Sie sich häufig die folgende wichtige Frage:  
+**"Was kann ich zu diesem Thema fragen?"**   
+Sie können die Qualität der Wissenschaft im Allgemeinen vielleicht am besten dadurch optimieren, indem Sie sich selbst und andere regelmäßig inspirieren wertvolle Fragen zu stellen. Das "Bottleneck" in der Wissenschaft scheint weniger die Generierung einer Menge von Information zu sein und eher das Stellen der richtigen Fragen. Schenken Sie der Definition Ihrer Forschungsfrage oder Ihren Forschungsfragen daher Ihre Aufmerksamkeit. Jedem Anfang wohnt ein Zauber inne.
+
+
