@@ -81,4 +81,4 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 
 ## Vorbereitung während den Vorlesungen
 Fragen Sie sich als Vorbereitung auf die einzelnen Vorlesungen - und ggf. auch während den Vorlesungen - die folgende wichtige Frage:  
-**"Was kann ich zu diesem Thema fragen?"** 
+**"Was kann ich zu diesem Thema fragen?"** und fragen Sie Ihren Dozenten dann auch.
