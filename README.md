@@ -71,6 +71,7 @@ Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwische
 
 **Haben Sie weitere Tipps?**  
 1. Versetzen Sie sich ab und zu in die Lage eines möglichen Lesers Ihrer wissenschaftlichen Arbeit und fragen Sie sich inwiefern dieser mögliche Leser seine Lebenszeit durch das Lesen Ihrer Arbeit optimal nutzt. --> Ist Ihre Arbeit ein wertvolles klar strukturiertes Artefakt?    
-2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
+2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.    
+3. Definieren Sie Meilensteine, die sie nach Möglichkeit einhalten. 
 
 
