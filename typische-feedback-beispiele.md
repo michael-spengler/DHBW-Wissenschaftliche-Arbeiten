@@ -34,3 +34,8 @@ Mein Feedback: Erstellen Sie schon während des Schreibens Ihrer Bachelorarbeit 
 ### Der passende Umfang
 Ein Student hatte eine Bachelorarbeit entworfen, welche ohne Abbildungen etc. weniger als 40 Seiten umfasste.  
 Mein Feedback: Vielleicht können Sie das Themengebiet aus zusätzlichen Perspektiven erkunden und die entsprechenden Erkenntnisse beschreiben. Beachten Sie auch die aktuell geltende grobe Richtlinie im Hinblick auf den Umfang von Bachelorarbeiten: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/StuPrO-Pruefungsordnung-FakW-2018-Lesefassung-DHBW-Praesidium-201908.pdf
+
+### Klares Differenziertes Fazit
+Ein Student hatte mir kurz vor dem Abgabetermin eine Bachelorarbeit ohne eine klares Fazit gesendet.   
+Mein Feedback: Bitte ergänzen Sie Ihre Bachelorarbeit um ein klares, differenziertes Fazit. Bisher erinnert mich Ihre Arbeit an ein grundsätzlich solides Haus allerdings ohne Dach. 
+
