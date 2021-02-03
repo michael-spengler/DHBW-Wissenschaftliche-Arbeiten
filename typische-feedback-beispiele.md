@@ -4,7 +4,7 @@
 **Jemand nennt eine Überschrift auf der obersten Ebene "Stand der Technik"**  
 Mein Feedback: Nutzen Sie konkretere Überschriften - insbesondere auf der obersten Ebene
 
-**Jemand nennt eine Überschrift "Arten der Cloud"**
+**Jemand nennt eine Überschrift "Arten der Cloud"**  
 Mein Feedback: Statt "Arten der Cloud" können Sie vielleicht "Kategorien im Bereich Cloud Computing" schreiben. Weil das aus meiner Perspektive wissenschaftlicher und klarer ist.
 
 **Jemand nutzt viele unnötige Modalverben**  
