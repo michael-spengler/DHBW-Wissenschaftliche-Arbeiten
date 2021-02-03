@@ -23,6 +23,10 @@ Mein Feedback: Bitte prüfen Sie an welchen Stellen Sie den Fließtext durch Kla
 
 
 ### Die Forschungsfrage
-Eine Student hatte an keiner Stelle seiner Bachelorarbeit auf die behandelte Forschungsfrage oder auf die behandelten Forschungsfragen hingewiesen.  
+Ein Student hatte an keiner Stelle seiner Bachelorarbeit auf die behandelte Forschungsfrage oder auf die behandelten Forschungsfragen hingewiesen.  
 Mein Feedback: Da Ihre Forschungsfrage in gewissem Sinne das Herzstück Ihrer Bachelorarbeit ist, erachte ich es als empfehlenswert diese ausdrücklich zu nennen und eventuell sogar an unterschiedlichen Stellen innerhalb Ihrer Bachelorarbeit auf diese zu referenzieren.
 
+
+### Die Storyline
+Ein Student hatte eine Arbeit geschrieben, innerhalb derer ich mich als Leser zwischendurch "lost" fühlte, was mich motivierte häufig - auf der Suche nach Orientierung - hoch zum Inhaltsverzeichnis zu scrollen.  
+Mein Feedback: Erstellen Sie schon während des Schreibens Ihrer Bachelorarbeit eine knackige Präsentation zur Vorstellung Ihrer Bachelorarbeit. Üben Sie diese Präsentation zunächst mit Ihrem Teddy, dann mit Ihrem Haustier, dann mit einem Freund und dann nochmal mit mir und später dann mit dem Prüfungskomitee. In den ersten Levels entdecken Sie möglicherweise Anregungen, die zur Optimierung Ihrer Storyline beitragen.  
