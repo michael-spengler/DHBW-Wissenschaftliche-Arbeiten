@@ -37,5 +37,5 @@ Mein Feedback: Vielleicht können Sie das Themengebiet aus zusätzlichen Perspek
 
 ### Klares Differenziertes Fazit
 Ein Student hatte mir kurz vor dem Abgabetermin eine Bachelorarbeit ohne eine klares Fazit gesendet.   
-Mein Feedback: Bitte ergänzen Sie Ihre Bachelorarbeit um ein klares, differenziertes Fazit. Bisher erinnert mich Ihre Arbeit an ein grundsätzlich solides Haus allerdings ohne Dach. 
+Mein Feedback: Bitte ergänzen Sie Ihre Bachelorarbeit um ein klares, differenziertes Fazit. Ihre Arbeit erscheint mir ansonsten in gewissem Sinne wie ein grundsätzlich solides Haus allerdings ohne Dach.  
 
