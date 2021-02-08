@@ -16,7 +16,7 @@ Ein Student hatte viele unnötige Modalverben genutzt.
 Mein Feedback: Prüfen Sie an welchen Stellen Sie Modalverben als unnötige Füllwörter nutzen. Insbesondere das Modalverb "müssen" kritisiere ich häufig. Es suggeriert eine Alternativlosigkeit, die selten oder sogar niemals richtig erscheint. 
 
 Ein Student hatte geschrieben "Nachdem die Daten vorbereitet sind, muss nun ein geeigneter Algorithmus ausgewählt werden.".   
-Mein Feedback: "Nachdem die Daten vorbereitet sind, wählen wir nun einen geeigneten Algorithmus."
+Mein Feedback: "Nachdem die Daten vorbereitet sind, wird nun ein geeigneter Algorithmus ausgewählt."
 
 ## Der Begriff "man"
 Ein Student hatte häufig den Begriff "man" genutzt.  
