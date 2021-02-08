@@ -1,23 +1,21 @@
 # Typische Feedback Beispiele
 
 ## Konkrete Überschriften
-Ein Student hatte eine Überschrift auf der obersten Ebene "Stand der Technik" genannt.  
-Mein Feedback: Nutzen Sie konkretere Überschriften - insbesondere auf der obersten Ebene.  
-  
 Ein Student hatte eine Überschrift "Arten der Cloud" genannt.   
 Mein Feedback: Statt "Arten der Cloud" können Sie vielleicht "Kategorien im Bereich Cloud Computing" schreiben. Das scheint mir konkreter, wissenschaftlicher und klarer.
 
-Ein Student hatte eine Überschrift "Chart für Gruppendemographie" genannt.  
+Ein Student hatte eine Überschrift "Chart für Gruppendemographie" genannt.   
 Mein Feedback: Statt "Chart für Gruppendemographie" können Sie vielleicht "Chart zur Darstellung der Gruppendemographie"
 
 Ein Student hatte eine Überschrift "Anforderungen" genannt.    
 Mein Feedback: Sie können diese Überschrift vielleicht "Anforderungsanalyse" nennen, um den Inhalt dieses Kapitels konkreter zu beschreiben.
 
+
 ## Weniger Modalverben
 Ein Student hatte viele unnötige Modalverben genutzt.   
 Mein Feedback: Prüfen Sie an welchen Stellen Sie Modalverben als unnötige Füllwörter nutzen. Insbesondere das Modalverb "müssen" kritisiere ich häufig. Es suggeriert eine Alternativlosigkeit, die selten oder sogar niemals richtig erscheint. 
 
-Ein Student hat geschrieben "Nachdem die Daten vorbereitet sind, muss nun ein geeigneter Algorithmus ausgewählt werden.".   
+Ein Student hatte geschrieben "Nachdem die Daten vorbereitet sind, muss nun ein geeigneter Algorithmus ausgewählt werden.".   
 Mein Feedback: "Nachdem die Daten vorbereitet sind, wählen wir nun einen geeigneten Algorithmus."
 
 ## Der Begriff "man"
@@ -29,8 +27,8 @@ Ein Student hatte an vielen stellen Wörter des "Widerspruches" bzw. der "Invali
 Mein Feedback: An Stelle eines Widerspruchs scheint mir Gleichzeitigkeit hervorhebenswert. Bitte prüfen Sie an welchen Stellen Sie Begriffe wie "aber" oder "jedoch" durch "gleichzeitig" ersetzen oder weglassen können. Ihre Arbeit wird dadurch typischerweise wissenschaftlicher und klarer.
 
 ## Weniger "extra"
-Ein Student hat so etwas geschrieben wie: "Hierfür wurde extra eine Anwendung entwickelt."   
-Mein Feedback: Das "extra" kann m.E. insbesondere in wissenschaftlichen Arbeiten weggelassen werden.
+Ein Student hatte so etwas geschrieben wie: "Hierfür wurde extra eine Anwendung entwickelt."    
+Mein Feedback: Das "extra" können Sie m.E. insbesondere in wissenschaftlichen Arbeiten weglassen.
 
 ## Weniger "noch"
 Ein Student hatte geschrieben: "Um ein Simulationsprogramm zu entwickeln, welches den Ausbreitungsverlauf von COVID-19 möglichst genau beschreiben kann und dabei noch entsprechende Maßnahmen beachtet, braucht es Planung."    
@@ -45,7 +43,7 @@ Ein Student hatte viele zusammenhängende Seiten, die lediglich aus Text bestand
 Mein Feedback: Bitte prüfen Sie an welchen Stellen Sie den Fließtext durch Klarheit schaffende Schaubilder auflockern können. Sie erleichtern Ihrem Leser damit die Reise auf dessen Pfad der Erkenntnis.
 
 ## Domänenspezifische Etablierte Wertvolle Fachbegriffe
-Ein Student hat eine Bachelorarbeit zum Thema Deep Learning entworfen. In dieser Arbeit wurde der Begriff "Hyperparameter" nicht genannt.   
+Ein Student hatte eine Bachelorarbeit zum Thema Deep Learning entworfen. In dieser Arbeit wurde der Begriff "Hyperparameter" nicht genannt.   
 Mein Feedback: Es gibt m.E. Begriffe, die von Experten innerhalb einer bestimmten Domäne sehr häufig genutzt werden und typischerweise wertvoll für die Kooperation sind. Fragen Sie sich ob Sie während Ihrer Recherche bestimmte Begriffe oft gelesen haben, ohne dass Sie diese in Ihrer Bachelorarbeit aufgreifen. Tipp: "Hyperparameter"
 
 ## Die Forschungsfrage
