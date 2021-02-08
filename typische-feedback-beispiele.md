@@ -24,7 +24,7 @@ Mein Feedback: Wer genau ist "man"? Ersetzen Sie diesen Begriff vielleicht durch
 
 ## Weniger "aber", "jedoch", ...  
 Ein Student hatte an vielen stellen Wörter des "Widerspruches" bzw. der "Invalidierung" genutzt.   
-Mein Feedback: An Stelle eines Widerspruchs scheint mir Gleichzeitigkeit hervorhebenswert. Bitte prüfen Sie an welchen Stellen Sie Begriffe wie "aber" oder "jedoch" durch "gleichzeitig" ersetzen oder weglassen können. Ihre Arbeit wird dadurch typischerweise wissenschaftlicher und klarer.
+Mein Feedback: An Stelle eines Widerspruches scheint mir Gleichzeitigkeit gegeben. Bitte prüfen Sie an welchen Stellen Sie Begriffe wie "aber" oder "jedoch" durch "gleichzeitig" ersetzen oder weglassen können. Ihre Arbeit wird dadurch typischerweise wissenschaftlicher und klarer.
 
 ## Weniger "extra"
 Ein Student hatte so etwas geschrieben wie: "Hierfür wurde extra eine Anwendung entwickelt."    
