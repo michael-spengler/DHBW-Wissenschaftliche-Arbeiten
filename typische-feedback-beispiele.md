@@ -55,6 +55,10 @@ Mein Feedback: Da Ihre Forschungsfrage in gewissem Sinne das Herzstück Ihrer Ba
 Ein Student hatte eine Arbeit geschrieben, innerhalb derer ich mich als Leser zwischendurch "lost" fühlte, was mich motivierte häufig - auf der Suche nach Orientierung - hoch zum Inhaltsverzeichnis zu scrollen.  
 Mein Feedback: Erstellen Sie schon während des Schreibens Ihrer Bachelorarbeit eine knackige Präsentation zur Vorstellung Ihrer Bachelorarbeit. Üben Sie diese Präsentation zunächst mit Ihrem Teddy, dann mit Ihrem Haustier, dann mit einem Freund und dann nochmal mit mir und später dann mit dem Prüfungskomitee. In den ersten Levels entdecken Sie möglicherweise Anregungen, die zur Optimierung Ihrer Storyline beitragen.  
 
+## Offene Sprache
+Ein Student hatte in seiner Bachelorarbeit an vielen Stellen den Eindruck erweckt als als gäbe es an diesen Stellen jeweils nur eine Lösung. Beispiel: "...sowie die dazu passende Evaluationsmethodik vorgestellt." Ein solcher Satz erweckt den Eindruck als gäbe es lediglich eine dazu passende Evaluationsmethodik.  
+Mein Feedback: Achten Sie auf eine offene klare und präzise Sprache.  
+
 ## Der Passende Umfang
 Ein Student hatte eine Bachelorarbeit entworfen, welche ohne Abbildungen etc. weniger als 40 Seiten umfasste.  
 Mein Feedback: Vielleicht können Sie das Themengebiet aus zusätzlichen Perspektiven erkunden und die entsprechenden Erkenntnisse beschreiben. Beachten Sie auch die aktuell geltende grobe Richtlinie im Hinblick auf den Umfang von Bachelorarbeiten: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/StuPrO-Pruefungsordnung-FakW-2018-Lesefassung-DHBW-Praesidium-201908.pdf
