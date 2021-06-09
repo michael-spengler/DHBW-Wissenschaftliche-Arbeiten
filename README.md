@@ -1,5 +1,17 @@
 # Wissenschaftliche Arbeiten
 
+## Anmeldung
+Sofern Sie  mich als wissenschaftlichen Betreuer wählen, nutzen Sie bitte die folgenden Daten bei der Anmeldung:  
+  
+Michael Spengler  
+Zollhofgarten 8  
+69115 Heidelberg  
+  
+0049 151 67 83 38 69  
+
+Beruf: Software Entwickler  
+Abteilung: The Tools Team  
+
 ## Allgemein
 Allgemeine Hinweise für wissenschaftliche Arbeiten finden Sie [hier](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/hinweise-wissenschaftliche-arbeiten.md).
 
