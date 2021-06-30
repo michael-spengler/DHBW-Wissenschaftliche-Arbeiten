@@ -22,7 +22,7 @@ Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert leg
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
 2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind - aka "hidden assumptions" - sind aufzudecken und in eigenen Formulierungen zu vermeiden.  
 3. Ich lege viel Wert auf klare & sachgerechte Begriffsabgrenzungen.  
-4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.     
+4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl. In diesem Kontext empfehle ich den [Scientific Purpose Web Harvester](http://85.214.28.167:5001/) zur Unterstützung in der Literaturrecherche.      
 5. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. Exkurs: "Storytelling PLUS Wissenschaft - victim, aggressor, hero, guide" --> Die Erkundung aus unterschiedlichen Perspektiven fördert dabei gleichzeitig die Ganzheitlichkeit Ihrer Arbeit.    
 6. Ich empfehle Ihnen ein breites Repertoire Ihrer Methodenkompetenz zu nutzen, indem Sie mehrere Methoden / Werkzeuge anwenden (je nach Kontext z.B. ein Value Proposition Canvas, eine User Story Map, eine SWOT Analyse, eine Nutzwertanalyse, den Perspektivwechsel Debating Club als Workshop Element etc.).   
 7. Zur Entwicklung eigenständiger Ansätze empfehle ich:  
