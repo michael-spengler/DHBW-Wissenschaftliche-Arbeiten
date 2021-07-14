@@ -57,11 +57,11 @@ Mein Feedback: Erstellen Sie schon während des Schreibens Ihrer Bachelorarbeit 
 
 ## Offene Sprache
 Ein Student hatte in seiner Bachelorarbeit an vielen Stellen den Eindruck erweckt als als gäbe es an diesen Stellen jeweils nur eine Lösung. Beispiel: "...sowie die dazu passende Evaluationsmethodik vorgestellt." Ein solcher Satz erweckt den Eindruck als gäbe es lediglich eine dazu passende Evaluationsmethodik.  
-Mein Feedback: Achten Sie auf eine offene klare und präzise Sprache.  
+Mein Feedback: Achten Sie auf eine offene, klare und präzise Sprache.  
 
 ## Der Passende Umfang
 Ein Student hatte eine Bachelorarbeit entworfen, welche ohne Abbildungen etc. weniger als 40 Seiten umfasste.  
-Mein Feedback: Vielleicht können Sie das Themengebiet aus zusätzlichen Perspektiven erkunden und die entsprechenden Erkenntnisse beschreiben. Beachten Sie auch die aktuell geltende grobe Richtlinie im Hinblick auf den Umfang von Bachelorarbeiten: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/StuPrO-Pruefungsordnung-FakW-2018-Lesefassung-DHBW-Praesidium-201908.pdf
+Mein Feedback: Vielleicht können Sie das Themengebiet aus zusätzlichen Perspektiven erkunden und die entsprechenden Erkenntnisse beschreiben. Beachten Sie auch die aktuell geltende grobe Richtlinie im Hinblick auf den Umfang von Bachelorarbeiten: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/StuPrO-Pruefungsordnung-FakW-2018-einschl.-Zweite-Aenderungssatzung-DHBW-Praesidium-202007.pdf
 
 ## Klares Differenziertes Fazit
 Ein Student hatte mir kurz vor dem Abgabetermin eine Bachelorarbeit ohne eine klares Fazit gesendet.   
