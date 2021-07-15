@@ -11,6 +11,9 @@ Zollhofgarten 8
 
 Beruf: Software Entwickler  
 Abteilung: The Tools Team  
+  
+Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann auf welche Methode objektiv und nachvollziehbar von den Studierenden selbst (also keine Experteninterviews) überprüft bzw. beantwortet wird.
+
 
 ## Allgemein
 Allgemeine Hinweise für wissenschaftliche Arbeiten finden Sie [hier](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/hinweise-wissenschaftliche-arbeiten.md).
