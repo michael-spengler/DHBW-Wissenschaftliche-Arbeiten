@@ -9,8 +9,9 @@ Zollhofgarten 8
   
 0049 151 67 83 38 69  
 
-Beruf: Software Entwickler  
+Arbeitgeber: SAP SE  
 Abteilung: The Tools Team  
+Funktion: Software Entwickler  
   
 Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann auf welche Methode objektiv und nachvollziehbar von den Studierenden selbst (also keine Experteninterviews) überprüft bzw. beantwortet wird.
 
