@@ -48,7 +48,7 @@ Zur Erarbeitung möglicher Forschungsfragen stehe ich auch gerne zum gemeinsamen
 Nachdem Sie sich einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft haben, und eine Liste zu möglichen Forschungsfragen angefertigt haben, empfehle ich Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Ihnen dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
 
 **Wo finde ich eine passende Vorlage?**  
-[Dieses Dokument](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/master.pdf) kann Ihnen als Vorlage dienen.
+[Hier](https://github.com/pfisterer/DHBW_LaTeX_Template/) finden Sie geeignete Vorlagen.
 
 **Wie läuft die Zusammenarbeit idealerweise ab?**  
 Ich stehe Ihnen grundsätzlich 24/7 zur Verfügung. Sie erreichen mich stets per Telegram. Sollten Sie - wider Erwarten - länger als 24 Stunden auf eine Antwort von mir warten, senden Sie mir bitte einen oder bei Bedarf mehrere reminders. Ich empfehle Ihnen häufig Zwischenfeedbacks einzuholen.  
