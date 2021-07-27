@@ -69,7 +69,8 @@ Ich schließe mich [diesen Empfehlungen](https://www.thema-abschlussarbeit.de/qu
 Evtl. helfen die folgenden Links:
 1. https://bsz.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC43
 2. https://link.springer.com/ 
-3. https://scholar.google.de/  
+3. https://scholar.google.de/   
+4. [Scientific Purpose Web Harvester](http://85.214.28.167:5001/)
 
 **Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**  
 Abstract + Fazit der möglichen Quelle checken, dann überlegen ob der Inhalt relevant ist.
