@@ -74,6 +74,12 @@ Evtl. helfen die folgenden Links:
 **Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**  
 Abstract + Fazit der möglichen Quelle checken, dann überlegen ob der Inhalt relevant ist.
 
+**Empfehlen Sie konkrete Materialsammlungen zu speziellen Themen?**  
+Auf Anfrage ja. Da ich hauptsächlich Themen im Kontext der Webentwicklung, Deep Learning und der Blockchain Technologie betreue, kann ich zu diesen Themen im Allgemeinen schonmal die folgenden Informationssammlungen empfehlen:
+1. Deep Learning: [Basic Summary via MIT Lecture](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)  
+2. Webentwicklung: Frontend Development (tbd) / [Backend Development (Deno)](https://www.youtube.com/watch?v=mhnpeOLiQTg) / [Unit Testing](http://xunitpatterns.com/)
+3. Blockchain Technologie: [Tutorials](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)  
+
 **Meine BA baut teilweise auf Erkenntnissen aus meiner PA auf. Soll ich an entsprechenden Stellen direkt darauf verweisen?**  
 Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öffentlich zugänglich ist. Stattdessen scheint es sinnvoll die PA in den Referenzen mit aufzunehmen und im Text beispielsweise folgendermaßen zu referenzieren: "In [PA1] wurden die Ergebnisse aus [Q1, Q2, Q3] folgendermaßen zusammengefasst...". 
 
@@ -82,12 +88,6 @@ Ich empfehle Akzente eher durch eine klare Sprache und eine klare Gesamtstruktur
 
 **Darf ich englische Begriffe nutzen?**  
 Da in der "Web" Entwicklungszene viele Begriffe "eingedeutscht" sind, finde ich das grundätzlich in Ordnung. Vielleicht können Sie den deutschen Begriff einmalig nennen und den englischen Begriff einmalig in Klammer schreiben - z.B. "Beim überwachten Lernen (supervised learning)...". Ab diesem Punkt den englischen Begriff zu nutzen finde ich in Ordnung, da Sie die Bedeutung zunächst zugeordnet haben.  
-
-**Empfehlen Sie konkrete Materialsammlungen zu speziellen Themen?**
-Auf Anfrage ja. Da ich hauptsächlich Themen im Kontext der Webentwicklung, Deep Learning und der Blockchain Technologie betreue, kann ich zu diesen Themen im Allgemeinen schonmal die folgenden Informationssammlungen empfehlen:
-1. Deep Learning: [Basic Summary via MIT Lecture](https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)  
-2. Webentwicklung: Frontend Development (tbd) / [Backend Development (Deno)](https://www.youtube.com/watch?v=mhnpeOLiQTg) / [Unit Testing](http://xunitpatterns.com/)
-3. Blockchain Technologie: [Tutorials](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)  
 
 **Brauchen Sie persönlich eine gebundene Ausgabe meiner Arbeit?**  
 Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwischenstände - per Telegram zuzusenden. Eine digitale Ausgabe Ihrer Arbeit ist dementsprechend aus meiner Perspektive als Betreuer ausreichend, um Ihre Arbeit adäquat zu bewerten.  
