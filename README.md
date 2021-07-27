@@ -14,7 +14,7 @@ Abteilung: The Tools Team
 Funktion: Software Entwickler  
 E-Mail Addresse = vorname.nachname@sap.com  
   
-Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann auf welche Methode objektiv und nachvollziehbar von den Studierenden selbst (also keine Experteninterviews) überprüft bzw. beantwortet wird.
+Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews) überprüft bzw. beantwortet wird. 
 
 
 ## Allgemein
