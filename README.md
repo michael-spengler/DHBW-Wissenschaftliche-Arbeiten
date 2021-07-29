@@ -14,7 +14,8 @@ Abteilung: The Tools Team
 Funktion: Software Entwickler  
 E-Mail Addresse = vorname.nachname@sap.com  
   
-Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews) überprüft bzw. beantwortet wird. 
+Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews...) überprüft bzw. beantwortet wird.  
+Im Bereich der Wirtschaftsinformatik erscheint mir die Implementierung von schlanken Prototypen im Kontext von wissenschaftlichen Arbeiten empfehlenswert. Diese Prototypen stellen u.A. einen Versuchsaufbau dar, der sich nutzen lässt, um eigenständig Erkenntnisse zu erarbeiten. 
 
 
 ## Allgemein
@@ -70,7 +71,8 @@ Evtl. helfen die folgenden Links:
 1. https://bsz.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC43
 2. https://link.springer.com/ 
 3. https://scholar.google.de/   
-4. [Scientific Purpose Web Harvester](http://85.214.28.167:5001/)
+4. https://dblp.org/
+5. [Scientific Purpose Web Harvester](http://85.214.28.167:5001/)
 
 **Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**  
 Abstract + Fazit der möglichen Quelle checken, dann überlegen ob der Inhalt relevant ist.
