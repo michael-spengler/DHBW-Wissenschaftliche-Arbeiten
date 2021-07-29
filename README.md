@@ -15,7 +15,8 @@ Funktion: Software Entwickler
 E-Mail Addresse = vorname.nachname@sap.com  
   
 Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews...) überprüft bzw. beantwortet wird.  
-Im Bereich der Wirtschaftsinformatik erscheint mir die Implementierung von schlanken Prototypen im Kontext von wissenschaftlichen Arbeiten empfehlenswert. Diese Prototypen stellen u.A. einen Versuchsaufbau dar, der sich nutzen lässt, um eigenständig Erkenntnisse zu erarbeiten. 
+
+Im Bereich der Wirtschaftsinformatik empfehle ich die Implementierung von schlanken Prototypen im Kontext von wissenschaftlichen Arbeiten. Diese Prototypen stellen u.A. einen Versuchsaufbau dar, der sich nutzen lässt, um eigenständig Erkenntnisse zu erarbeiten. 
 
 
 ## Allgemein
@@ -41,12 +42,12 @@ In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden
 
 **Welche Tipps haben Sie für die Formulierung der Forschungsfragen?**  
 Ich empfehle frühzeitig eine Liste zu möglichen Forschungsfragen anzufertigen und diese möglichst täglich zu ergänzen. Dadurch entwickeln Sie ein klares Bild zu Ihrem Thema und üben sich darin dieses aus unterschiedlichen Perspektiven zu begreifen.  
-Des Weiteren verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/). 
-
+Des Weiteren verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/).   
+Fragen Sie sich regelmäßig welche Fragen Sie zu einem Thema stellen können.  
 Zur Erarbeitung möglicher Forschungsfragen stehe ich auch gerne zum gemeinsamen Brainstorming zur Verfügung.  
 
 **Welche Methodik passt am besten zu meinem Thema und mir?**  
-Nachdem Sie sich einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft haben, und eine Liste zu möglichen Forschungsfragen angefertigt haben, empfehle ich Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Ihnen dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
+Grundsätzlich empfehle ich im Bereich Wirtschaftsinformatik (wie oben beschrieben) die Implementierung von schlanken Prototypen als Versuchsaufbau anhand dessen sich wissenschaftliche Erkenntnisse ableiten lassen. Falls Sie zusätzliche Methoden erkunden möchten, finden Sie hier einen [Überblick](https://www.scribbr.de/category/methodik/).  
 
 **Wo finde ich eine passende Vorlage?**  
 [Hier](https://github.com/pfisterer/DHBW_LaTeX_Template/) finden Sie geeignete Vorlagen.
