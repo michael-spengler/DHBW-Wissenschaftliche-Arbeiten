@@ -14,7 +14,7 @@ Abteilung: The Tools Team
 Funktion: Software Entwickler  
 E-Mail Addresse = vorname.nachname@sap.com  
   
-Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche genauen relevanten und ergebnisoffenen Frage(n) dann mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews...) überprüft bzw. beantwortet wird.  
+Bitte beachten Sie bereits bei der Anmeldung, dass Sie darin darstellen, was in der Arbeit wissenschaftlich betrachtet werden soll- also welche relevante(n) und ergebnisoffene(n) Frage(n) mit welcher [wissenschaftlichen Methode](https://en.wikipedia.org/wiki/Scientific_method) objektiv und nachvollziehbar von Ihnen selbst (also keine Experteninterviews...) überprüft bzw. beantwortet wird.  
 
 Im Bereich der Wirtschaftsinformatik empfehle ich die Implementierung von schlanken Prototypen im Kontext von wissenschaftlichen Arbeiten. Diese Prototypen stellen u.A. einen Versuchsaufbau dar, der sich nutzen lässt, um eigenständig Erkenntnisse zu erarbeiten. 
 
