@@ -58,6 +58,10 @@ Ich stehe Ihnen grundsätzlich 24/7 zur Verfügung. Sie erreichen mich stets per
 **Welchen Zitierstil empfehlen Sie?**  
 Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0EA7NJA&feature=youtu.be) an --> deutscher Zitierstil oder Harvardzitierstil.
 
+**Wie kann ich Quellen zitieren wenn ich Bücher auf Oreilly auswerte, und dort weder Seitenzahlen noch Kapitelnummern angegeben sind?**   
+Solange insgesamt eine gute Quellenvielfalt genutzt wird, ist es aus meiner Sicht in Ordnung in diesen Ausnahmefällen lediglich Werk + Kapitelnamen anzugeben.  
+Bessere Vorschläge sind jederzeit willkommen.
+
 **Wie entscheide ich ob ich ein Artefakt in den Anhang oder direkt in den Fließtext packe?**  
 Sofern Sie den Inhalt des Artefaktes im Fließtext detailliert beschreiben und der Inhalt dieses Artefaktes daher scheinbar klar im Fokus steht, macht es m.E. grundsätzlich Sinn das Artefakt an sich bereits dem Fließtext zuzuordnen. Den Interpretationsspielraum, der sich bei diesen Entscheidungen oft ergibt, können Sie gerne auch weitgehend dazu nutzen sicherzustellen, dass der empfohlene Umfang Ihrer wissenschaftlichen Arbeit in einem idealen Maße eingehalten wird.  
 
