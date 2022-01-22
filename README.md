@@ -102,17 +102,12 @@ Eine digitale Ausgabe Ihrer Arbeit ist für mich als wissenschaftlicher Betreuer
 Des Weiteren laden Sie bitte eine digitale Ausgabe Ihrer Arbeit per Moodle fristgerecht ins System und bereiten Sie eine gebundene Ausgabe in papierform für die DHBW vor.   
 
 **Wie soll die Arbeit insgesamt strukturiert sein?**  
-
-Abstract ()  
-Einleitung (sollte auch die Oma lesen können... für das allgemeine Problemverständnis)  
-Grundlagen (Theorie)  
-Durchführen (Hauptteil mit Experimenten) (Mit den in Grundlagen genannten Themen / Technologien "spielen")   
-Ergebnisse / Diskussion   
-Ausblick (Weitblick & Leadership Potential)  
-
-Alles was man sagen kann, soll man klar sagen - über den Rest können Sie schweigen.   
-
-Was Sie schreiben sollte eine klare Funktion für den Leser haben.    
+Abstract (präzise, ganzheitlich, vollständig & knackig)   
+Einleitung (sollte auch die Oma lesen können... für das allgemeine Problemverständnis)   
+Grundlagen (Theorie)   
+Durchführen (Hauptteil mit Experimenten) (Mit den in Grundlagen genannten Themen / Technologien "spielen")    
+Ergebnisse / Diskussion    
+Ausblick (stellen Sie Weitblick & Leadership Potential - falls vorhanden - unter Beweis)    
 
 Viele Leser betrachten die Arbeit in der folgenden Reihenfolge:  
 1. Abstract  
@@ -124,10 +119,14 @@ Viele Leser betrachten die Arbeit in der folgenden Reihenfolge:
 
 
 
-**Haben Sie weitere Tipps?**  
+**Haben Sie weitere Tipps / Anregungen?**  
 1. Versetzen Sie sich ab und zu in die Lage eines möglichen Lesers Ihrer wissenschaftlichen Arbeit und fragen Sie sich inwiefern dieser mögliche Leser seine Lebenszeit durch das Lesen Ihrer Arbeit optimal nutzt. --> Ist Ihre Arbeit ein wertvolles klar strukturiertes Artefakt?    
 2. Arbeiten Sie so als wäre Ihr Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.    
-3. Definieren Sie Meilensteine, die Sie nach Möglichkeit einhalten. Beispielsweise "Forschungsfrage(n) soll klar sein", "Einleitung soll komplett sein", .... Es ist natürlich in Ordnung iterativ auch nochmal zu vorhergehenden Punkten zurückzukehren und diese zu optimieren. Gleichzeitig helfen Ihnen diese Meilensteine typischerweise eine strukturierte Herangehensweise anzuwenden, was wiederum mit einer hohen Wahrscheinlichkeit der Qualität Ihrer Arbeit zuträglich ist.
+3. Definieren Sie Meilensteine, die Sie nach Möglichkeit einhalten. Beispielsweise "Forschungsfrage(n) soll klar sein", "Einleitung soll komplett sein", .... Es ist natürlich in Ordnung iterativ auch nochmal zu vorhergehenden Punkten zurückzukehren und diese zu optimieren. Gleichzeitig helfen Ihnen diese Meilensteine typischerweise eine strukturierte Herangehensweise anzuwenden, was wiederum mit einer hohen Wahrscheinlichkeit der Qualität Ihrer Arbeit zuträglich ist.  
+4. Alles was Sie sagen, sollten Sie m.E. klar sagen - über den Rest können Sie schweigen.   
+5. Was Sie schreiben sollte eine klare Funktion für den Leser haben.    
+6. Texte werden im Allgemeinen häufiger gelesen als geschrieben - was bedeutet das für Sie?   
+
 
 ## Präsentation Ihrer Arbeit & Mündliche Prüfungen
 1. Stellen Sie sicher, dass Ihre Präsentation klar strukturiert und für alle Mitglieder des Prüfungskomitee's nachvollziehbar ist
