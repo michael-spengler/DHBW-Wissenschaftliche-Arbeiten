@@ -17,3 +17,5 @@ Deckblatt, Selbständigkeitserklärung, Erscheinungsbild... Vollständigkeit, Re
 ## Notenskala 
 https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
 
+
+https://dhbw-vs.de/files/content/02_LEHRE/60er_Punkte-_und_Notenskala.pdf
