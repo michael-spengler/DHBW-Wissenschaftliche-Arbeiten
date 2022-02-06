@@ -38,7 +38,7 @@ Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert leg
 
 ### Q & A
 
-***Die Anmeldung (pdf dokument) kann nicht digital signiert werden. Kennen Sie eine Lösung?***   
+**Die Anmeldung (pdf dokument) kann nicht digital signiert werden. Kennen Sie eine Lösung?**   
 Möglicher Lösungsansatz / Workaround: Dokument in word konvertieren - dann zurück in PDF  
 
 **Ich stehe ganz am Anfang und habe Schwierigkeiten mit der Strukturierung. Was kann ich tun?**  
