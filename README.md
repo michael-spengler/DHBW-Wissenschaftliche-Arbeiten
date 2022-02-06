@@ -37,6 +37,10 @@ Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert leg
 
 
 ### Q & A
+
+***Die Anmeldung (pdf dokument) kann nicht digital signiert werden. Kennen Sie eine Lösung?***   
+Möglicher Lösungsansatz / Workaround: Dokument in word konvertieren - dann zurück in PDF  
+
 **Ich stehe ganz am Anfang und habe Schwierigkeiten mit der Strukturierung. Was kann ich tun?**  
 In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden und dabei ein [Glossar](https://www.lektorat-bachelorarbeit.de/glossar-erstellen/) anzufertigen. Selbst wenn sich einzelne Begriffe darin später als relativ irrelevant herauskristallisieren und vielleicht sogar wieder aus dem Glossar gelöscht werden, hilft dies oft bei der Erarbeitung der Inhalte und der Struktur.  
 
