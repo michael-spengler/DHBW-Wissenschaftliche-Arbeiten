@@ -23,7 +23,7 @@ Im Bereich der Wirtschaftsinformatik empfehle ich die Implementierung von schlan
 Allgemeine Hinweise für wissenschaftliche Arbeiten finden Sie [hier](https://github.com/pfisterer/DHBW_LaTeX_Template/blob/master/hinweise-wissenschaftliche-arbeiten.md).
 
 ## Individuell  
-Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert lege und gebe Tipps, die bei der Erstellung einer wissenschaftlichen Ausarbeitung wertvoll sein können. Feedback ist jederzeit willkommen.
+Im Folgenden fasse ich zusammen, worauf ich als Betreuer besonders viel Wert lege und gebe Tipps, die bei der Erstellung einer wissenschaftlichen Ausarbeitung wertvoll sein können. Feedback ist jederzeit willkommen. Bitte beachten Sie auch die typischen [Feedback Beispiele](https://github.com/michael-spengler/DHBW-Wissenschaftliche-Arbeiten/blob/main/typische-feedback-beispiele.md).  
 
 ### Grundsätzliches
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
