@@ -145,6 +145,6 @@ Viele Leser betrachten die Arbeit in der folgenden Reihenfolge:
 Fragen Sie sich häufig die folgende wichtige Frage:  
 **"Was kann ich zu diesem Thema fragen?"**   
 
-Schenken Sie der Definition Ihrer Forschungsfrage oder Ihren Forschungsfragen daher Ihre Aufmerksamkeit. Jedem Anfang wohnt ein Zauber inne.
+Schenken Sie der Definition Ihrer Forschungsfrage(n) daher Ihre Aufmerksamkeit. Jedem Anfang wohnt ein Zauber inne.
 
 
