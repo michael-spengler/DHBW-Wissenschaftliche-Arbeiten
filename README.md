@@ -101,6 +101,10 @@ Ich empfehle Akzente eher durch eine klare Sprache und eine klare Gesamtstruktur
 **Darf ich englische Begriffe nutzen?**  
 Da in der "Web" Entwicklungszene viele Begriffe "eingedeutscht" sind, finde ich das grundätzlich in Ordnung. Vielleicht können Sie den deutschen Begriff einmalig nennen und den englischen Begriff einmalig in Klammer schreiben - z.B. "Beim überwachten Lernen (supervised learning)...". Ab diesem Punkt den englischen Begriff zu nutzen finde ich in Ordnung, da Sie die Bedeutung zunächst zugeordnet haben.  
 
+**Wie kann ich gendertechnisch alles korrekt machen?**
+Ich persönlich habe hier keine besonderen Ansprüche und überlasse diese Entscheidung Ihnen. Viele Studierende fügen einen Lesehinweis hinzu - wie etwa:
+"Aus Gründen der besseren Lesbarkeit wird bei Personenbezeichnungen und personenbezogenen Hauptwörtern in dieser Arbeit die männliche Form genutzt. Entsprechende Begriffe gelten im Sinne der Gleichbehandlung grundsätzlich für alle Geschlechter. Die verkürzte Sprachform hat dementsprechend redaktionelle Gründe und beinhaltet keine geschlechtsspezifische Wertung."
+
 **Brauchen Sie eine gebundene Ausgabe meiner Arbeit?**  
 Eine digitale Ausgabe Ihrer Arbeit ist für mich als wissenschaftlicher Betreuer ausreichend. Ich empfehle Ihnen mir die finale Version Ihrer Arbeit - genauso wie die Zwischenstände - per Telegram zuzusenden.  
 Des Weiteren laden Sie bitte eine digitale Ausgabe Ihrer Arbeit per Moodle fristgerecht ins System und bereiten Sie eine gebundene Ausgabe in papierform für die DHBW vor.   
