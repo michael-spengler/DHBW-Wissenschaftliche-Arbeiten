@@ -36,7 +36,11 @@ Mein Feedback: 1. Das "noch" kann raus. 2. Wie hoch ist der wissenschaftliche Me
 
 ## Mehr Präzision im Sprachgebrauch
 Ein Student hatte geschrieben: "...um die Ausbreitung der Krankheit einzuschränken oder sogar einzudämmen."   
-Mein Feedback: Inwiefern "sogar"? Worin liegt der Unterschied zwischen einschränken und eindämmen? Existiert(e) dieser Unterschied nur in Ihrem Kopf oder ist das Common Sense? :) 
+Mein Feedback: Inwiefern "sogar"? Worin liegt der Unterschied zwischen einschränken und eindämmen? Existiert(e) dieser Unterschied nur in Ihrem Kopf oder ist das Common Sense? :)   
+  
+Ein Student nutzte viele Überschriften, die lediglich aus einem Wort bestanden - z.B. "Virtualisierung" statt "Virtualisierung von IT-Infrastruktur".  
+Mein Feedback: Empfehlung: Achten Sie darauf dass Sie klar schreiben was Sie meinen.  
+
 
 ## Spaghetti Text
 Ein Student hatte viele zusammenhängende Seiten, die lediglich aus Text bestanden, geschrieben.  
